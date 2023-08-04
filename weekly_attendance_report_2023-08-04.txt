@@ -1,0 +1,25 @@
+Weekly Attendance Report (2023-08-04 to 2023-08-10)
+
+Date: 2023-08-04
+Student ID: 1, Name: manan, Status: Present
+Student ID: 2, Name: rohit, Status: Present
+Student ID: 3, Name: rahul, Status: Present
+Student ID: 4, Name: varad, Status: Present
+Student ID: 5, Name: uv, Status: Present
+Student ID: 6, Name: manish, Status: Present
+Student ID: 7, Name: manan, Status: Present
+Student ID: 8, Name: ananya, Status: Present
+Student ID: 9, Name: arjun, Status: Present
+Student ID: 10, Name: ayush, Status: Present
+
+Date: 2023-08-05
+Student ID: 1, Name: manan, Status: Present
+Student ID: 2, Name: rohit, Status: Present
+Student ID: 3, Name: rahul, Status: Present
+Student ID: 5, Name: uv, Status: Present
+Student ID: 11, Name: deepika, Status: Present
+Student ID: 23, Name: arun, Status: Present
+Student ID: 34, Name: nikita, Status: Present
+Student ID: 45, Name: saurabh, Status: Present
+Student ID: 44, Name: sunil, Status: Present
+Student ID: 22, Name: ajay, Status: Present

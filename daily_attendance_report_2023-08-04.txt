@@ -1,0 +1,11 @@
+Date: 2023-08-04
+Student ID: 1, Name: manan, Status: Present
+Student ID: 2, Name: rohit, Status: Present
+Student ID: 3, Name: rahul, Status: Present
+Student ID: 4, Name: varad, Status: Present
+Student ID: 5, Name: uv, Status: Present
+Student ID: 6, Name: manish, Status: Present
+Student ID: 7, Name: manan, Status: Present
+Student ID: 8, Name: ananya, Status: Present
+Student ID: 9, Name: arjun, Status: Present
+Student ID: 10, Name: ayush, Status: Present
