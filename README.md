@@ -18,7 +18,7 @@ The Attendance Management System is a command-line Python application that allow
 •	Python 3.x installed on your system.
 ## Getting Started
 1. Clone the repository to your local machine:
-•	git clone [https://github.com/your_username/attendance-management-system.git](https://github.com/Shyam165/Attendance-Management-System.git)
+•	git clone https://github.com/Shyam165/Attendance-Management-System.git
 •	cd attendance-management-system
 1.Install the required packages:
 •	pip install -r requirements.txt
